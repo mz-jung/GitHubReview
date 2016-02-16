@@ -28,5 +28,12 @@ namespace GitHubReview.Controllers
         {
             return View();
         }
+
+        public ActionResult master_test3()
+        {
+            return View();
+        }
+
+
     }
 }
